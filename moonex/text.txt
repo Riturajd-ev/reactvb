@@ -1,0 +1,6 @@
+package.json file 
+
+start 41 line
+    // "start": "react-scripts start",
+    // "build": "react-scripts build",
+end
