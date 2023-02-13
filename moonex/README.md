@@ -1,4 +1,4 @@
-# vbeasy - Portfolio & Agency React Template
+# vbeasy - Portfolio & Agency React
 
 ## Description
 
