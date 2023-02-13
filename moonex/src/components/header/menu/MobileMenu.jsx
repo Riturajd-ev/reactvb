@@ -14,38 +14,38 @@ const menuContent = [
   {
     name: "Home",
     dropDownItems: [
-      {
-        name: "Home Default",
-        routerPath: "/home-default",
-      },
-      {
-        name: "Home Studio",
-        routerPath: "/home-studio",
-      },
+      // {
+      //   name: "Home Default",
+      //   routerPath: "/home-default",
+      // },
+      // {
+      //   name: "Home Studio",
+      //   routerPath: "/home-studio",
+      // },
       {
         name: "Home Agency",
         routerPath: "/home-agency",
       },
-      {
-        name: "Home Minimal",
-        routerPath: "/home-minimal",
-      },
-      {
-        name: "Home Dark",
-        routerPath: "/home-dark",
-      },
-      {
-        name: "Home Freelancer",
-        routerPath: "/home-freelancer",
-      },
-      {
-        name: "Home Trending",
-        routerPath: "/home-trending",
-      },
-      {
-        name: "Home Modern",
-        routerPath: "/home-modern",
-      },
+      // {
+      //   name: "Home Minimal",
+      //   routerPath: "/home-minimal",
+      // },
+      // {
+      //   name: "Home Dark",
+      //   routerPath: "/home-dark",
+      // },
+      // {
+      //   name: "Home Freelancer",
+      //   routerPath: "/home-freelancer",
+      // },
+      // {
+      //   name: "Home Trending",
+      //   routerPath: "/home-trending",
+      // },
+      // {
+      //   name: "Home Modern",
+      //   routerPath: "/home-modern",
+      // },
     ],
   },
   {
@@ -106,8 +106,8 @@ const menuContent = [
         routerPath: "/about-us",
       },
       {
-        name: "About Me",
-        routerPath: "/about-me",
+        // name: "About Me",
+        // routerPath: "/about-me",
       },
       {
         name: "Services",

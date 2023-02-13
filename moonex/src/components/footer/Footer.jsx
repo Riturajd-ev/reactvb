@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+// import FooterList from "../list/FooterList";
 
 const linkList = [
   {

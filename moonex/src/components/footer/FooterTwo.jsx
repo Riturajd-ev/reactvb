@@ -12,18 +12,17 @@ const FooterTwo = () => {
               <li>
                 <span>Address</span>
                 <p>
-                  Suite 1506, ERAGON Building, 256 Fifth Avenue, CA 92006,
-                  United States
+                  13 EC Road, Irrigation colony, Dehradun, Uttarakhand
                 </p>
               </li>
               <li>
                 <span>Phone</span>
-                <a href="tel:86631250859">+8 (663) 125-08-59</a>
+                <a href="tel:86631250859">+91 (663) 125-08-59</a>
               </li>
               <li>
                 <span>Email</span>
-                <a href="mailto:hello@moonexstudio.com">
-                  hello@moonexstudio.com
+                <a href="mailto:info@vbeasy.com">
+                  info@vbeasy.com
                 </a>
               </li>
             </ul>

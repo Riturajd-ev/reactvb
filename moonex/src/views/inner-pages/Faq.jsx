@@ -9,7 +9,7 @@ const Faq = () => {
   return (
     <div>
       <Helmet>
-        <title>Moonex - Faq</title>
+        <title>VBEASY - Faq</title>
       </Helmet>
       {/* End Page SEO Content */}
 

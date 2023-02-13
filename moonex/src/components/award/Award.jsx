@@ -79,7 +79,7 @@ const Award = () => {
               <div className="ptf-rewards-project" key={i}>
                 <div className="ptf-rewards-project__content">
                   <h5>
-                    <a href="#">{list.title}</a>
+                    <a to='#'>{list.title}</a>
                   </h5>
                   <span>{list.subTitle}</span>
                 </div>

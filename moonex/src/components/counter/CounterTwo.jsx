@@ -5,20 +5,53 @@ import VisibilitySensor from "react-visibility-sensor";
 const counterUpContent = [
   {
     startCount: "0",
-    endCount: "25600",
-    metaText1: "HAPPY CLIENTS",
-    metaText2: "IN 25 YEARS",
-    animationDelay: "100",
-    colClass: "",
+    endCount: "95",
+    metaText1: "Website design and",
+    metaText2: "development",
+    animationDelay: "0",
   },
   {
     startCount: "0",
-    endCount: "76500",
-    metaText1: "PROJECTS COMPLETED ON",
-    metaText2: "THE WORLDWIDE",
-    animationDelay: "200",
-    colClass: "text-xl-end",
+    endCount: "98",
+    metaText1: "iOs & Android mobile",
+    metaText2: "application",
+    animationDelay: "100",
   },
+  {
+    startCount: "0",
+    endCount: "90",
+    metaText1: "Hosting, domain &",
+    metaText2: "support",
+    animationDelay: "200",
+  },
+  // {
+  //   startCount: "0",
+  //   endCount: "80",
+  //   metaText1: "YEARS OF",
+  //   metaText2: "EXPERIENCE",
+  //   animationDelay: "0",
+  // },
+  // {
+  //   startCount: "0",
+  //   endCount: "1000",
+  //   metaText1: "SATISFACTION",
+  //   metaText2: "CLIENTS",
+  //   animationDelay: "100",
+  // },
+  // {
+  //   startCount: "0",
+  //   endCount: "800",
+  //   metaText1: "CLIENTS ON",
+  //   metaText2: "WORLDWIDE",
+  //   animationDelay: "200",
+  // },
+  // {
+  //   startCount: "0",
+  //   endCount: "6750",
+  //   metaText1: "PROJECTS",
+  //   metaText2: "DONE",
+  //   animationDelay: "300",
+  // },
 ];
 
 const CounterTwo = () => {

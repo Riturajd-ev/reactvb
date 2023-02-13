@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const serviceContent = [
   {
     icon: "lnil lnil-cup",
-    titlePart1: "BRAND",
-    titlePart2: "CONSULTANT",
+    titlePart1: "Google Sheet",
+    titlePart2: "Automation",
     descriptions: ` We build and activate brands throung cultural insight &amp;
         strategic vision.`,
   },
@@ -18,15 +18,36 @@ const serviceContent = [
   },
   {
     icon: "lnil lnil-3d",
-    titlePart1: "PACKAGING",
-    titlePart2: "",
+    titlePart1: "Web App",
+    titlePart2: "Development",
     descriptions: ` We build and activate brands throung cultural insight &amp;
         strategic vision.`,
   },
   {
     icon: "lnil lnil-video-camera-alt-1",
-    titlePart1: "MOTION VIDEO",
-    titlePart2: "& TVC",
+    titlePart1: "Mobile App",
+    titlePart2: "Development",
+    descriptions: ` We build and activate brands throung cultural insight &amp;
+        strategic vision.`,
+  },
+  {
+    icon: "lnil lnil-video-camera-alt-1",
+    titlePart1: "Software Development",
+    titlePart2: "Consulting",
+    descriptions: ` We build and activate brands throung cultural insight &amp;
+        strategic vision.`,
+  },
+  {
+    icon: "lnil lnil-video-camera-alt-1",
+    titlePart1: "Cloud App",
+    titlePart2: "Development",
+    descriptions: ` We build and activate brands throung cultural insight &amp;
+        strategic vision.`,
+  },
+  {
+    icon: "lnil lnil-video-camera-alt-1",
+    titlePart1: "Digital Marketing",
+    titlePart2: "Agency",
     descriptions: ` We build and activate brands throung cultural insight &amp;
         strategic vision.`,
   },

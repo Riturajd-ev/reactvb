@@ -24,8 +24,8 @@ const Address = () => {
         {/* <!--Spacer--> */}
         <div className="ptf-spacer" style={{ "--ptf-xxl": "1.25rem" }}></div>
         <p className="fz-20 lh-1p5 has-black-color">
-          <a href="mailto:hello@moonex.co">
-            hello@moonex.co
+          <a href="mailto:support@vbeasy.com">
+          support@vbeasy.com
             <br />
           </a>
           <a href="mailto:career@moonex.co">career@moonex.co</a>
@@ -41,7 +41,7 @@ const Address = () => {
         {/* <!--Spacer--> */}
         <div className="ptf-spacer" style={{ "--ptf-xxl": "1.25rem" }}></div>
         <p className="fz-20 lh-1p5 has-black-color">
-          <a href="tel:+5632356565">+56 3235 65 65</a>
+          <a href="tel:+919718352518">+91-9718352518</a>
         </p>
       </div>
 

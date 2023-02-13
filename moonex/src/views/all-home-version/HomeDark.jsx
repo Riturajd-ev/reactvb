@@ -15,7 +15,7 @@ const HomeDark = () => {
   return (
     <div className="ptf-site-wrapper animsition ptf-is--home-dark ">
       <Helmet>
-        <title>Moonex - Home Dark</title>
+        <title>VBEASY</title>
       </Helmet>
       {/* End Page SEO Content */}
 

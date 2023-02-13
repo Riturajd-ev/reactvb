@@ -11,7 +11,7 @@ const Service = () => {
   return (
     <div>
       <Helmet>
-        <title>Moonex - Services</title>
+        <title>VBEASY - Services</title>
       </Helmet>
       {/* End Page SEO Content */}
 
@@ -149,6 +149,7 @@ const Service = () => {
         <div className="container-xxl">
           <div className="ptf-footer__top">
             <Footer />
+            {/* <FooterTwo /> */}
           </div>
           <div className="ptf-footer__bottom">
             <CopyRight />

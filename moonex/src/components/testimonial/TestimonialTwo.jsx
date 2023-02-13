@@ -4,33 +4,28 @@ import Slider from "react-slick";
 const testimonialContent = [
   {
     avatar: "twitter-avatar",
-    name: "Thiago Alcantara",
+    name: "Aly Mustakim",
     email: "@thiago.lfc",
     hightlightText: "@moonex",
     date: "15 Dec, 2022",
-    description: `a studio with passionate, profressional &
-    full creativity. Much more things that i’m expect. Really
-    awesome & satisfied, alway recommended!`,
+    description: `Working with Raj and Team at VBEasy was as professional as could be. They really
+    get out of their way to fulfill clients' needs and requests. They work in a team spirit which made me return back to them for my second job. They are experts in VBA Excel.`,
   },
   {
     avatar: "twitter-avatar-2",
-    name: "Laura Lowrence",
+    name: "Sherry Eshrati",
     email: "@laura.cubichotel",
     hightlightText: "@awesome",
     date: "24 Dec, 2022",
-    description: ` I don’t know what else to say, this is something that you
-    haven’t seen before. Unique design, impressive & outstanding
-    support.`,
+    description: `Great team to work with, very flexible and knowledgeable!.`,
   },
   {
     avatar: "comment-avatar-1",
-    name: "Laura Lowrence",
+    name: "Andrew Gillespie",
     email: "@laura.cubichotel",
     hightlightText: "@design",
     date: "24 Dec, 2022",
-    description: ` This is something that you
-    haven’t seen before. Unique design, impressive & outstanding
-    support. I don’t know what else to say, `,
+    description: ` Excellence work would recommend. `,
   },
 ];
 

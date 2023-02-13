@@ -17,7 +17,7 @@ const HomeAgency = () => {
   return (
     <div className="ptf-site-wrapper animsition ptf-is--home-agency">
       <Helmet>
-        <title>Moonex - Home Agency</title>
+        <title>VBEASY</title>
       </Helmet>
       {/* End Page SEO Content */}
 
@@ -68,7 +68,8 @@ const HomeAgency = () => {
                           Directly
                         </div>
                         <div className="ptf-phone-block__phone">
-                          <a href="tel:+3796354868">(+37) 96 3548 68</a>
+                          {/* <a href="tel:+5856320660">USA +1<br/>(585) 632 0660</a><br/> */}
+                          <a href="tel:+919718352518">(+91) 9718352518</a>
                         </div>
                       </div>
                     </div>
@@ -165,7 +166,7 @@ const HomeAgency = () => {
                         style={{ "--ptf-xxl": "1.875rem" }}
                       ></div>
                       <h3 style={{ maxWidth: "30rem" }}>
-                        We bring trusted solutions for your business
+                        We are creative Tech Company
                       </h3>
                       {/* <!--Spacer--> */}
                       <div
@@ -173,15 +174,10 @@ const HomeAgency = () => {
                         style={{ "--ptf-xxl": "5rem", "--ptf-md": "2.5rem" }}
                       ></div>
                       <p className="fz-18" style={{ maxWidth: "30rem" }}>
-                        We help our client suceed by creating identities,
-                        digital experiences, and printmaterials that communicate
-                        clearly, achieve marketing goals, and look fantastic.
+                      VB Easy is a certified, award-winning software development company that predominantly  focuses on client requirements and endeavour to deliver result oriented solutions. We create every project with great diligence and offer the optimum solution and ROI to boost business growth.
                       </p>
                       <p className="fz-18" style={{ maxWidth: "30rem" }}>
-                        There are many variations of passages of Lorem Ipsum
-                        available, but the majority have suffered alteration in
-                        some form, by injected humour
-                      </p>
+                      We are experts in Web Technologies, Mobile Technologies, and Digital Marketing and provide cutting edge solutions so that you do not have to hire multiple companies to get your project done. We have separate departments for Web Development, App Development, Digital Marketing, and On-Demand Hiring. All these departments work together to turn your project into a success story.                      </p>
                     </div>
                     {/* <!--Spacer--> */}
                     <div

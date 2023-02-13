@@ -18,7 +18,7 @@ const HomeDefault = () => {
   return (
     <div className="ptf-site-wrapper animsition  ptf-is--home-default">
       <Helmet>
-        <title>Moonex - Home Default</title>
+        <title>VBEASY</title>
       </Helmet>
       {/* End Page SEO Content */}
 
@@ -75,9 +75,8 @@ const HomeDefault = () => {
                         style={{ "--ptf-xxl": "2.5rem" }}
                       ></div>
                       <p className="fz-18">
-                        We help ambitious businesses like yours generate more
-                        profits by building awareness, driving web traffic,
-                        connecting with customers and growing overall sales.
+                        Enhance your business with our offered services
+                        Business Applications & Software Development.
                       </p>
                     </div>
                     {/* <!--Spacer--> */}
@@ -170,9 +169,8 @@ const HomeDefault = () => {
             <section
               className="has-accent-1-background"
               style={{
-                backgroundImage: `url(${
-                  process.env.PUBLIC_URL + "assets/img/root/service-bubble.png"
-                })`,
+                backgroundImage: `url(${process.env.PUBLIC_URL + "assets/img/root/service-bubble.png"
+                  })`,
                 backgroundRepeat: "no-repeat",
                 backgroundPosition: "100% calc(100% + 120px)",
               }}
@@ -223,7 +221,7 @@ const HomeDefault = () => {
                       data-aos="fade"
                       data-aos-delay="0"
                     >
-                      <h2 className="h1 large-heading">Moonex’s Partners</h2>
+                      <h2 className="h1 large-heading">VBEASY Partners</h2>
                     </div>
                     {/* <!--Spacer--> */}
                     <div
@@ -267,10 +265,9 @@ const HomeDefault = () => {
             <section
               className="jarallax jarallax-img"
               style={{
-                backgroundImage: `url(${
-                  process.env.PUBLIC_URL +
+                backgroundImage: `url(${process.env.PUBLIC_URL +
                   "assets/img/about-us-testimonial-background.png"
-                })`,
+                  })`,
               }}
             >
               {/* <!--Spacer--> */}

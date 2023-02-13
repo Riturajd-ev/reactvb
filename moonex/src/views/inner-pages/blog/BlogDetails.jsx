@@ -28,7 +28,7 @@ const BlogDetails = () => {
             <header className="ptf-single-post__header ptf-single-post__header--style-1">
               <div className="container-xxl">
                 <h1 className="ptf-single-post__title">
-                  Simple Logo Collections
+                Grow Your Business
                 </h1>
                 <div className="ptf-single-post__meta">
                   <span className="cat">Inspiration</span>
@@ -71,28 +71,56 @@ const BlogDetails = () => {
 
                     {/* <!--Post Excerpt--> */}
                     <div className="ptf-single-post__excerpt">
-                      To mark the first UK show of artist Henri Barande, graphic
-                      designer{" "}
-                      <span className="has-accent-1">Pavel Murren</span> and
-                      German studio Schultzschultz have created The Lodge
-                      Wooden.
+                    Grow Your Business{" "}<br />
+                      {/* <span className="has-accent-1">Pavel Murren</span> and */}
+                      1. Identify needs of your customers
                     </div>
-
                     {/* <!--Post Content--> */}
                     <div className="ptf-single-post__content">
                       <p>
-                        Today most people get on average 4 to 6 hours of
-                        exercise every day, and make sure that everything they
-                        put in their mouths is not filled with sugars or
-                        preservatives, but they pay no attention to their mental
-                        health, no vacations, not even the occasional long
-                        weekend. All of this for hopes of one day getting that
-                        big promotion.
+                      Predominant motto of enterprise and business is to enhance their business growth and maintain goodwill among its customers. Recognizing the needs and preferences of your customers is the prior step each and every organization have to opt for running smoothly in the business environment.
                       </p>
+                      <div className="ptf-single-post__excerpt">
+                      2. Host Events and Webinars
+                    </div>
                       <p>
-                        Coventry is a city with a thousand years of history that
-                        has plenty to offer the visiting tourist. Located in the
-                        heart of Warwickshire.
+                      Organizing events and webinars helps you to exhibit products and services you are proffering to large numbers of audiences. Not only it helps businesses to establish relationships with people but also enhances credibility and authenticity among people. Also, optimum way to participate in one on one conversations which consists of talking about various topics of common interest.
+                      </p>
+                      <div className="ptf-single-post__excerpt">
+                      3. Persistent Monitoring
+                    </div>
+                      <p>
+                      Constant Monitoring detects the flaws and problems arriving in business activities. It ensures you to refine your policies and strategies for better survival. Moreover, it supports you to analyze the results of your pivotal efforts and time. It raises productivity by seeking out what’s inefficient, degrading, or working as intended.
+                      </p>
+                      <div className="ptf-single-post__excerpt">
+                      4. Market Expansion and Diversification
+                    </div>
+                      <p>
+                      Diversification is the imperative factor in the growth of businesses. Diversification of business can be performed in numerous ways such as commencing new business, adding different segments related to products and services. Specifically, diversification is the riskiest strategy as it is most uncertain but if executed in the right direction at the right time will boost the brand image and profitability of the company.
+                      </p>
+                      <div className="ptf-single-post__excerpt">
+                      5. Build Strong team
+                    </div>
+                      <p>
+                      Employees are the ultimate asset of the company. Each and every accomplishment of the organization is attributed with employees who devote their valuable time in maintaining the reputation of the organization. However, it is an accountability of organizations to give vigilant attention to the needs of employees and offer them employee benefits to boost their morale which in turn increases productivity.
+                      </p>
+                      <div className="ptf-single-post__excerpt">
+                      5. Build Strong team
+                    </div>
+                      <p>
+                      Employees are the ultimate asset of the company. Each and every accomplishment of the organization is attributed with employees who devote their valuable time in maintaining the reputation of the organization. However, it is an accountability of organizations to give vigilant attention to the needs of employees and offer them employee benefits to boost their morale which in turn increases productivity.
+                      </p>
+                      <div className="ptf-single-post__excerpt">
+                      6. Opt Social Media Platforms
+                    </div>
+                      <p>
+                      Social media Platforms are rendering tremendous assistance to enhance the presence of online businesses. It assures you to connect, build networking, interact and reach a large number of people simultaneously. Metaphorically, it stimulates you to promote your business and gain insights about customers behaviour and recognize the way to fulfill stipulations of clients. One of the predominant advantages of social media is that it doesn’t attribute to cost.
+                      </p>
+                      <div className="ptf-single-post__excerpt">
+                      7. Nurture the needs of existing customers
+                    </div>
+                      <p>
+                      To attain business growth, organizations must be careful about their existing customer base. They must opt strategies to be in contact with existing customers via email, webinars and newsletter.
                       </p>
                       {/* <!--Spacer--> */}
                       <div
@@ -107,12 +135,12 @@ const BlogDetails = () => {
                         className="ptf-spacer"
                         style={{ "--ptf-xxl": "5rem", "--ptf-md": "2.5rem" }}
                       ></div>
-                      <p>
+                      {/* <p>
                         The short answer is yes. According to Kross, when you
                         think of yourself as another person, it allows you lorem
                         ispumgive yourself more. Notre dame at sumeobjective,
                         helpful feedback.
-                      </p>
+                      </p> */}
                       {/* <!--Spacer--> */}
                       <div
                         className="ptf-spacer"
@@ -122,50 +150,7 @@ const BlogDetails = () => {
                         }}
                       ></div>
                       {/* <!--Twitter Review--> */}
-                      <div className="ptf-twitter-review ptf-twitter-review--style-2">
-                        <div className="ptf-twitter-review__header">
-                          <div className="ptf-twitter-review__avatar">
-                            <img
-                              src="assets/img/root/twitter-avatar.png"
-                              alt="avatar"
-                              loading="lazy"
-                            />
-                          </div>
-                          <div className="ptf-twitter-review__meta">
-                            <h6 className="ptf-twitter-review__author">
-                              Thiago Alcantara
-                            </h6>
-                            <div className="ptf-twitter-review__info">
-                              <a href="#">@thiago.lfc</a> - 15 Dec, 2022
-                            </div>
-                          </div>
-                          <div className="ptf-twitter-review__icon">
-                            <i className="socicon-twitter"></i>
-                          </div>
-                        </div>
-                        <div className="ptf-twitter-review__content">
-                          <p>
-                            <a href="#">@moonex</a> - a studio with passionate,
-                            profressional & full creativity. Much more things
-                            that i’m expect. Really awesome & satisfied, alway
-                            recommended!
-                          </p>
-                        </div>
-                      </div>
-                      {/* <!--Spacer--> */}
-                      <div
-                        className="ptf-spacer"
-                        style={{ "--ptf-xxl": "7.5rem", "--ptf-md": "3.75rem" }}
-                      ></div>
-                      <h3>Defaulting to Mindfulness</h3>
-                      {/* <!--Spacer--> */}
-                      <div
-                        className="ptf-spacer"
-                        style={{
-                          "--ptf-xxl": "1.875rem",
-                          "--ptf-md": "1.5625rem",
-                        }}
-                      ></div>
+                      
                       <p>
                         Cray post-ironic plaid, Helvetica keffiyeh tousled
                         Carles banjo before they sold out blog photo booth Marfa

@@ -14,8 +14,7 @@ const PersonalInfo = () => {
           className="fz-24 has-black-color has-secondary-font"
           style={{ maxWidth: "15.3125rem" }}
         >
-          Work for money and design for love! I’m Bruno, an UI/UX Interaction
-          Designer based in Poland.
+          VB Easy is a certified, award-winning software development company that predominantly  focuses on client requirements and endeavour to deliver result oriented solutions.
         </p>
       </div>
       {/* End .ptf-animated-block */}
@@ -36,9 +35,9 @@ const PersonalInfo = () => {
         <div className="ptf-spacer" style={{ "--ptf-xxl": "2.8125rem" }}></div>
         <p className="fz-24 has-black-color has-secondary-font">
           Warsaw, Poland <br />
-          <a href="mailto:hello@brunoerdison.com">hello@brunoerdison.com</a>
+          <a href="mailto:support@vbeasy.com">support@vbeasy.com</a>
           <br />
-          <a href="tel:+6835688986">+68 3568 89 86</a>
+          <a href="tel:+919718352518">+91-9718352518</a>
         </p>
       </div>
       {/* End .ptf-animated-block */}
