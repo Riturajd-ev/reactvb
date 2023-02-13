@@ -1,4 +1,4 @@
-# Moonex - Portfolio & Agency React Template
+# vbeasy - Portfolio & Agency React Template
 
 ## Description
 
